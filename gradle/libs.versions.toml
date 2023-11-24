@@ -7,7 +7,7 @@ nebula-contacts = "7.0.1"
 nebula-info = "12.1.6"
 nebula-publishing = "20.3.0"
 plugin-publishing = "1.2.1"
-spring-boot = "3.1.2"
+spring-boot = "3.2.0"
 
 [libraries]
 gradle-docker = { module = "com.bmuschko:gradle-docker-plugin", version.ref = "gradle-docker" }
