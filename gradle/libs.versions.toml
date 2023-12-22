@@ -1,6 +1,6 @@
 [versions]
 gradle-docker = "9.3.4"
-kotlin = "1.9.10"
+kotlin = "1.9.22"
 ktlint = "4.0.0"
 kubernetes = "19.0.0"
 nebula-contacts = "7.0.1"
